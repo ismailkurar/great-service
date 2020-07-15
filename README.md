@@ -1,2 +1,2 @@
 # great-service
-Dummy service for the new lerners
+Dummy service for the new learners
